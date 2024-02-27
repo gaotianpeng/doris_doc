@@ -1,0 +1,1 @@
+ALTER SYSTEM ADD BACKEND "be_host_ip:heartbeat_service_port";
