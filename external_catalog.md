@@ -88,6 +88,3 @@ class ExternalCatalog implements CatalogIf<ExternalDatabase<? extends ExternalTa
     protected void init()
 }
 ```
-
-
-
